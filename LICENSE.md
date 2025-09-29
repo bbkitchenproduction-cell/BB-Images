@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Rights - BB Kitchen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header & Navbar -->
+  <header>
+   <nav>
+  <a href="index.html">Home</a>
+  <a href="menu.html">Menu</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+  <a href="rights.html">Rights</a>
+  <a href="script.html">Story</a>
+</nav>
+  </header>
+
+  <!-- Content -->
+  <main style="padding:20px; text-align:center">
+    <h2>⚖️ Intellectual Property Rights</h2>
+    <p style="max-width:700px; margin:auto; font-size:1.1rem; line-height:1.6">
+      All intellectual property and ownership rights of the character 
+      <strong>Butter Blaster</strong> and the original concept are fully reserved to the creator 
+      <strong>Mohamed Osama</strong>, with publishing and distribution rights belonging to 
+      <strong>BBKitchenProduction</strong>.
+    </p>
+    <p style="margin-top:20px; font-size:0.95rem; color:#aaa">
+      © 2025 BBKitchenProduction. All Rights Reserved.
+    </p>
+  </main>
+</body>
+</html>
